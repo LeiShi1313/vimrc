@@ -76,6 +76,7 @@ set foldlevel=99
 let python_highlight_all=1
 syntax on
 colorscheme solarized
+set background=dark
 
 
 nnoremap <F2> :NERDTreeToggle<CR>
